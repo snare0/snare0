@@ -1,8 +1,7 @@
->Hi, I’m Snare, I'm a student based in IN.
-I'm 16M and I'm learning things around here. 
+>Hey There, I’m Snare, I'm an 18 year old student based in India, and I'm learning things around here. 
 I’m interested in Game and Web development.
 I’m currently learning Csharp and web, looking into Github and stuff. 
-How to reach me : 
+You can contact me through the links given below: 
 >Discord : @.snaree#0
 >E-mail : vs89vanshsingh@gmail.com
 <!---
